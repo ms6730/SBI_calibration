@@ -12,5 +12,5 @@ It is possible that during a different period (with a different start and end da
 
 Hydraulic conductivity controls how fast groundwater or subsurface water can move through the soil and rock.
 
-- When you increase *K*, more water (groundwater) travels through the subsurface, discharging into the stream.
-- This increases **baseflow during dry periods**, sustaining streamflow even when there is no rainfall.
+When you increase *K*, more water (groundwater) travels through the subsurface, discharging into the stream.  
+This increases **baseflow during dry periods**, sustaining streamflow even when there is no rainfall.   
