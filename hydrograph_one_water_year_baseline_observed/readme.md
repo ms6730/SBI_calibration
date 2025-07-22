@@ -44,3 +44,5 @@ The **hydrograph** shows that the **calibrated streamflow** aligns well with the
 
 **Future work** should focus on correcting the discrepancies in peak magnitude, by incoporating hydraulic conductvity. However, **a sensitivity analysis** is first needed to determine wether peak flows are influenced by variations in **hydraulic conductivity**. 
 
+**Remark:** The **anomalous peak** that is missing from the **calibrated streamflow** should be investigated to determine wether it is from an error in the **observed data registration**, this can be assesed by comparing the same period to the following next year to evaluate the consistency of the peak and decide wether a re-calibration is needed.
+
