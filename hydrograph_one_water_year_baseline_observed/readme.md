@@ -5,8 +5,6 @@ It is important to note that the calibration of **Manning's values** us meant to
 
 
 
-## Hydrograph 
-![Density Plot for M0](./hydrograph_baseline_observed_01608500.png)
 
 
 ## Analysis 
@@ -30,4 +28,19 @@ A good starting point is to calculate the **mean** and **standard deviation** of
 By examining how the mean and standard deviation differ between the baseline and observed streamflow in each time window, and comparing those differences to the period used for surrogate training, we can assess the stability of the calibration. If the magnitude of discrepancy is similar, it may indicate that the calibrated Manning’s values are appropriate for other period as well. Significant differences, however, may suggest the need for period-specific recalibration due to difference in input data uncertainty, or other factors.
 
 
+## Results 
+
+## Hydrograph Plots: 
+### Baseline Simulation vs Observed Streamflow
+![Hydrograph Plot observed vs Basline Run](hydrograph_baseline_observed_01608500.png)
+### Calibrated Streamflow vs Observed Streamflow 
+![Hydrograph Plot observed vs calibrated streamflow](hydrograph_calibrated_observed_01608500.png)
+
+## Results 
+The **hydrograph** shows that the **calibrated streamflow** aligns well with the observed streamflow, with no noticeable time difference in peaks flows between the observed streamflow and the calibrated streamflow. This suggests that the **calibrated Manning's values** effectively compensate for errors in the put data of the **physically based model**, as reflected by the improved synchronization of peaks timings. 
+
+
+## Future Work 
+
+**Future work** should focus on correcting the discrepancies in peak magnitude, by incoporating hydraulic conductvity. However, **a sensitivity analysis** is first needed to determine wether peak flows are influenced by variations in **hydraulic conductivity**. 
 
