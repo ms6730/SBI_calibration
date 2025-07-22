@@ -13,6 +13,4 @@
 
 ## Results 
 
-
-
-## Conclusion 
+The hydrograph plot shows a close match between the observed data and the simulated streamflow **after training**. However, **some posterior distributions** are heavily right or left skewed. 
