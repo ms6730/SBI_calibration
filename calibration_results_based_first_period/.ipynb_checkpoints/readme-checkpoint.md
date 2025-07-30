@@ -1,3 +1,9 @@
 ## Findings
 
+Results of the Calibration on the following start and end date:
+
+   - Start date: 2003-10-27
+   - End Date:2003-12-01
+
+
 The findings indicate that the SNPE approach substantially enhanced the performance of PF-simulated streamflow, **increasing the Nash-Sutcliffe Efficiency (NSE) from 0.03 to 0.90 and reducing the Root Mean Square Error (RMSE) from 105 m³/s to 34 m³/s.** Similarly, **SNL shows strong results, achieving an NSE of 0.80 and an RMSE of 48 m³/s.** These metrics **highlight the robustness of both techniques as calibration surrogates.** Overall, this study demonstrates the successful and efficient application of SBI for real-site calibration using observed data. Ongoing work is extending the approach to other HUC domains with different hydrologic and topographical conditions to demonstrate the generalizability of this method. 
